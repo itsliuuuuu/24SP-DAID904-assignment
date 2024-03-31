@@ -55,7 +55,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Member Login</title>
 <style>
-  /* CSS 樣式可以放在這裡 */
   body {
     font-family: Arial, sans-serif;
   }
